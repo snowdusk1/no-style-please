@@ -2,37 +2,89 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+  - title: about me
+    url: /about.html 
 
-  - title: all posts
+  - title: blog 
     post_list:
       limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
+      category: personal 
+      show_more: true 
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: personal-archive.html
+
+  - title: intergalactic 
+    url: /intergalactic.html
+    post_list:
+      limit: 5
+      category: playlist 
+      show_more: true 
+      show_more_text: See more posts...
+      show_more_url: playlists-archive.html
+  
+  - title: contact
+    entries:
+      - title: email 
+        url: mailto:snowdusk@sdf.org
+        entries:
+        - title: pgp 
+          entries:
+            - title: asc
+              url: /snowdusk_4C28E7B6_public.asc
+            - title: text
+              url: /snowdusk_4C28E7B6_public.txt
+        - title: chat
+          url: /chat.html
+
+  - title: social
+    entries:
+      - title: mastodon
+        url: https://mastodon.sdf.org/@snowdusk
+      - title: soundcloud
+        url: https://soundcloud.com/snowdusk
+      - title: instagram
+        url: https://www.instagram.com/snowdusk_/
+      - title: pixelfed
+        url: https://pixelfed.sdf.org/@snowdusk
+      - title: youtube
+        url: https://www.youtube.com/channel/UCr4FgY_Wb0l5ahCoynqEICw
+      - title: toobnix
+        url: https://toobnix.org/@snowdusk_channel
+      - title: threads
+        url: https://www.threads.net/@snowdusk_
+      - title: vimeo
+        url: https://vimeo.com/garyg3
+      - title: gravatar
+        url: https://gravatar.com/snowdusk1
+      - title: serato dj
+        url: https://serato.com/playlists/id:6256557
+
+  - title: gopher 
+    url: gopher://gopher.club:70/1/users/snowdusk/
+
+  - title: archived blogs
+    entries:
+      - title: 2025/06 - 2025/07
+        url: /blog_2025_jun_14_2025_jul_13/
+      - title: 2024/10 - 2025/05
+        url: /oct2024_to_may2025/
+      - title: 2023/07 - 2024/09
+        url: /summer2023tosummer2024/
+      - title: 2016/05 - 2023/06
+        url: /old/
+      - title: 2010/02 - 2016/05
+        url: http://snowdusk1.wordpress.com/
+      - title: 2000/06 - 2010/02
+        url: /old/archive/pre_2010_02.html
 
   - title: rss
     url: feed.xml
-  
-  - title: another list
+
+  - title: powered by
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: sdf public access unix system
+        url: http://sdf.org
+      - title: jekyll
+        url: https://jekyllrb.com
+      - title: no-style, please! theme
+        url: https://github.com/riggraz/no-style-please 
