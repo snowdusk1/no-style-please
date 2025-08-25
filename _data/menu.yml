@@ -59,6 +59,11 @@ entries:
       - title: serato dj
         url: https://serato.com/playlists/id:6256557
 
+  - title: etc
+      entries:
+        - title: github
+          url: https://github.com/snowdusk1
+
   - title: gopher 
     url: gopher://gopher.club:70/1/users/snowdusk/
 
