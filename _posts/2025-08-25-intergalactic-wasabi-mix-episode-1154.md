@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intergalactic Wasabi Mix - Episode 1154 - 2025/07/26 
+title: Intergalactic Wasabi Mix - Episode 1154 - aNONradio.net - 2025/07/26 
 date: 2025-08-25 07:34 -0400
 category: playlist
 tags: [techno, detroittechno]
@@ -31,7 +31,6 @@ Tracklist:
 * 53:15 Chuck Mangione - Feels So Good
 
 <p>
-  Tagged 
   {% for tag in page.tags %}
   <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
   {% endfor %}

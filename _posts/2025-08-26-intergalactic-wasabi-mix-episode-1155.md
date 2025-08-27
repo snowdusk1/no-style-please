@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intergalactic Wasabi Mix - Episode 1155 - 2025/08/16 
+title: Intergalactic Wasabi Mix - Episode 1155 - aNONradio.net - 2025/08/16 
 category: playlist
 tags: [eurodisco, italodisco, hinrg]
 ---
@@ -27,7 +27,6 @@ Tracklist:
 * 52:00 Patrick Cowley - Technological World (feat. Paul Parker)
 
 <p>
-  Tagged 
   {% for tag in page.tags %}
   <a class="post" href="/tag/{{tag}}">#{{tag}}</a>{% unless forloop.last %}, {% endunless %}
   {% endfor %}
