@@ -20,7 +20,7 @@ entries:
       category: playlist 
       show_more: true 
       show_more_text: See more posts...
-      show_more_url: playlists-archive.html
+      show_more_url: playlist-archive.html
   
   - title: contact
     entries:
