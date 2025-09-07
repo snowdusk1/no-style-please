@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1156 - 2025/08/17 
+date: 2025-08-30 23:26 -0400
 category: playlist
 tags: [spacedisco, eurodisco]
 ---
