@@ -2,7 +2,7 @@
 layout: post
 title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1155 - aNONradio.net - 2025/08/16 
 date: 2025-08-30 22:34 -0400
-category: playlist
+category: intergalactic 
 tags: [eurodisco, italodisco, hinrg]
 ---
 <!--more-->

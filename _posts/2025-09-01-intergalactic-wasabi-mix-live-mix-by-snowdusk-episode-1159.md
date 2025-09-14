@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1159 - 2025/08/30 
+title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1159 - aNONradio.net - 2025/08/30 
 date: 2025-09-01 10:46 -0400
-category: playlist
+category: intergalactic 
 tags: [synthpop, minimal]
 ---
 

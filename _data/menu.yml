@@ -8,19 +8,22 @@ entries:
   - title: blog 
     post_list:
       limit: 5
-      category: personal 
+      category: blog 
       show_more: true 
       show_more_text: See more posts...
-      show_more_url: personal-archive.html
+      show_more_url: blog-archive.html
 
-  - title: intergalactic 
+  - title: intergalactic wasabi mix 
     url: /intergalactic.html
     post_list:
       limit: 5
-      category: playlist 
+      category: intergalactic 
       show_more: true 
       show_more_text: See more posts...
-      show_more_url: playlist-archive.html
+      show_more_url: intergalactic-archive.html
+
+  - title: all tags
+    url: /tags/
   
   - title: contact
     entries:
