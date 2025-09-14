@@ -1,9 +1,7 @@
 ---
 layout: page
-title: about
+title: about me
 ---
-
-## about me
 
 * lives in [Mississauga](https://en.wikipedia.org/wiki/Mississauga), Ontario, Canada
 * has lived in the Philippines and Japan

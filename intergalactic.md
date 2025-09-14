@@ -1,6 +1,6 @@
 ---
 layout: page
-title: intergalactic
+title: intergalactic wasabi mix
 ---
 
 Please tune in to my live DJ mix show ["Intergalactic Wasabi Mix"](https://anonradio.net/author/snowdusk/) on [aNONradio.net](https://anonradio.net) every Saturday and Sunday, from 23:00 to 24:00 UTC. Click here for instructions on how to tune in.
