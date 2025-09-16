@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1158 - 2025/08/24 
-category: playlist
+title: Intergalactic Wasabi Mix - Live Mix by snowdusk - Episode 1158 - aNONradio.net - 2025/08/24 
+date: 2025-09-01 09:04 -0400
+category: intergalactic 
 tags: electro
 ---
 
 [audio only](/audio/202508242300_snowdusk.mp3)
-
-Tracklist:
 
 * Arpanet - Devoid of Wires
 * Volsoc - Here Come Volsoc
 * EMS - Spyware
 * DeFeKT - Mg1
 * Solar Chrome - Cellular Automaton
-*  Mas 2008 - Optic Motions
+* Mas 2008 - Optic Motions
 * Heuristic Audio - Wisla
 * Computor Rockers - The Return of the Computor Rockers
 * Dynamik Bass System - Autobeatz
