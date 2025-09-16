@@ -8,14 +8,12 @@ tags: electro
 
 [audio only](/audio/202508242300_snowdusk.mp3)
 
-Tracklist:
-
 * Arpanet - Devoid of Wires
 * Volsoc - Here Come Volsoc
 * EMS - Spyware
 * DeFeKT - Mg1
 * Solar Chrome - Cellular Automaton
-*  Mas 2008 - Optic Motions
+* Mas 2008 - Optic Motions
 * Heuristic Audio - Wisla
 * Computor Rockers - The Return of the Computor Rockers
 * Dynamik Bass System - Autobeatz
