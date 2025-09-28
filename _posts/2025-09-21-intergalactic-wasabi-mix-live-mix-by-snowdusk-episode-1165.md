@@ -10,8 +10,6 @@ tags: house
 
 [audio only](https://archives.anonradio.net/202509202300_snowdusk.mp3)
 
-Tracklist:
-
 * 00:36 Life On Earth - Can't Give You Up
 * 06:51 Tristan Garner vs. Crystal Waters - Gypsy Woman (Da Ripness Mix)        
 * 12:23 Snuff Crew - Wherehouse Boy

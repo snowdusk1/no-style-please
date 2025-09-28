@@ -10,8 +10,6 @@ tags: house
 
 [audio only](https://snowdusk.sdf.org/audio/202509212300_snowdusk.mp3)
 
-Tracklist:
-
 * 00:41 De La Cube - Funky Line
 * 04:24 Carl Craig - Brainfreeze (Edit)
 * 08:35 Omar S - Air of the Day

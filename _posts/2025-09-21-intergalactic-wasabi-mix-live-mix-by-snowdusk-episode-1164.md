@@ -10,8 +10,6 @@ tags: ebm
 
 [audio only](https://archives.anonradio.net/202509142300_snowdusk.mp3)
 
-Tracklist:
-
 * 00:38 MCL Micro Chip League - Satellite
 * 03:51 Nexus - Nexus 6
 * 07:10 Master Program - Central Europe (Body Mix)
