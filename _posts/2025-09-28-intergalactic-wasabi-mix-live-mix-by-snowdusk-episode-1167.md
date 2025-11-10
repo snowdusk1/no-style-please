@@ -10,8 +10,6 @@ tags: electro
 
 [audio only](https://archives.anonradio.net/202509272300_snowdusk.mp3)
 
-Tracklist:
-
 * 00:35 Drexciya - Bubble Metropolis
 * 05:18 Der Zyklus - Mxyzptik
 * 09:00 Gosub - Low Volume Lovers
